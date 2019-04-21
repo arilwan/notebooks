@@ -1,2 +1,3 @@
-# notebooks
-A Jupyter notebook collection with spikes
+# Jupyter Notebooks
+
+A Jupyter notebook collection with explorations, experiments, and meetup presentations. 
